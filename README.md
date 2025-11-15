@@ -3,6 +3,7 @@
 ## 简介
 这是一个使用Trea CN AI变成软件基于 AstrBot 的图片响应插件，当用户发送包含特定关键词的消息时，会自动回复相关图片。
 参考了以下AstrBot插件：
+
 今日运势：https://github.com/NINIYOYYO/astrbot_plugin_jrys
 
 涩图插件2.0：https://github.com/FateTrial/astrbot_plugin_lolicon_image-master
