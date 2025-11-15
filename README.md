@@ -30,7 +30,7 @@ AstrBot/
 			├─ 猫羽雫.txt
 			└─ 魔卡.txt
 		 ├─ _conf_schema.json
-		 ├─ logo.png
+		 ├─ logo.jpg
 		 ├─ main.py
 		 ├─ metadata.yaml
 		 ├─ README.md
